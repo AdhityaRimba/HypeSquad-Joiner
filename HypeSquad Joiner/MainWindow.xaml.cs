@@ -14,6 +14,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using RaidAPI.HypeSquad;
+using RaidAPI.Core;
+using RaidAPI.Core.Profile;
 using ToastNotifications;
 using ToastNotifications.Messages;
 using ToastNotifications.Lifetime;
@@ -46,25 +48,35 @@ namespace HypeSquad_Joiner
             cfg.Dispatcher = Application.Current.Dispatcher;
         });
 
+        public void Give_HypeSquad(string _HypeSquad, string _id)
+        {
+            string tokensu = token.Text;
+            ClientInfos.GetInfos(tokensu);
+            string nick = ClientInfos._Name;
+            if (nick == null)
+            {
+                notifier.ShowError("Invalid Token");
+            }
+            else
+            {
+                Hype.GiveHypeSquad(tokensu, _id);
+                notifier.ShowSuccess("Success, Given "+_HypeSquad+" To " + nick);
+            }
+        }
+
         private void Bravery_Button_Click(object sender, RoutedEventArgs e)
         {
-            string tokens = token.Text;
-            Hype.GiveHypeSquad(tokens, "1");
-            notifier.ShowSuccess("Success Joined Bravery HypeSquad");
+            Give_HypeSquad("Bravery", "1");
         }
 
         private void Brilliance_Button_Click(object sender, RoutedEventArgs e)
         {
-            string tokens = token.Text;
-            Hype.GiveHypeSquad(tokens, "2");
-            notifier.ShowSuccess("Success Joined Brilliance HypeSquad");
+            Give_HypeSquad("Brilliance", "2");
         }
 
         private void Balance_Button_Click(object sender, RoutedEventArgs e)
         {
-            string tokens = token.Text;
-            Hype.GiveHypeSquad(tokens, "3");
-            notifier.ShowSuccess("Success Joined Balance HypeSquad");
+            Give_HypeSquad("Balance", "3");
         }
     }
 }

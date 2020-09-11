@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\bin\Release\HypeSquad Joiner.exe.config
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\bin\Release\HypeSquad Joiner.exe
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\bin\Release\HypeSquad Joiner.pdb
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\bin\Release\RaidAPI.dll
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\bin\Release\ToastNotifications.dll
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\bin\Release\ToastNotifications.Messages.dll
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\App.g.cs
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\HypeSquad Joiner_MarkupCompile.cache
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\HypeSquad Joiner_MarkupCompile.lref
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\App.baml
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\MainWindow.baml
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\HypeSquad Joiner.g.resources
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\HypeSquad_Joiner.Properties.Resources.resources
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\HypeSquad Joiner.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\HypeSquad Joiner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\HypeSquad Joiner.csproj.CopyComplete
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\HypeSquad Joiner.exe
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\HypeSquad Joiner.pdb
+C:\Users\Administrator\Documents\HypeSquad Joiner\HypeSquad Joiner\obj\Release\HypeSquad Joiner.csprojAssemblyReference.cache
